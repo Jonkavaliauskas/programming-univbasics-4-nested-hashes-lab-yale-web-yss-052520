@@ -83,7 +83,7 @@ yukihiro_matsumoto => {
       }
     }
     
-  programmer_hash[:yukihiro_matsumoto]
+  yukihiro_matsumoto
 end
 
 def changing_alan
